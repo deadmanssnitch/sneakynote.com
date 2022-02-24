@@ -5,14 +5,20 @@
                             /___/
 
 
-            ---------------------------------------------
-          /                                               \
-         |   SneakyNote.com is authored by Brian Hempel.   |
-         |                                                 |
-         |   - brian@sneakynote.com                        |
-         |   - https://github.com/brianhempel              |
-         |   - https://twitter.com/brianhempel             |
-          \                                               /
+            ----------------------------------------------
+          /                                                \
+         |   SneakyNote.com was authored by Brian Hempel.   |
+         |                                                  |
+         |   - https://github.com/brianhempel               |
+         |   - https://twitter.com/brianhempel              |
+         |                                                  |
+         |   It is maintained by his former teammates at:   |
+         |   Dead Man's Snitch                              |
+         |                                                  |
+         |   - https://deadmanssnitch.com                   |
+         |   - https://github.com/deadmanssnitch            |
+         |   - https://twitter.com/deadmanssnitch           |
+          \                                                /
             -------------------------------------   -----
                                                   \ |
                                                    \|
