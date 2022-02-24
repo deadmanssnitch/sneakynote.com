@@ -80,7 +80,7 @@
     <img class="u-full-width" src="/images/type_set-1600.jpg" srcset="/images/type_set-600.jpg 600w, /images/type_set-800.jpg 800w, /images/type_set-1000.jpg 1000w, /images/type_set-1200.jpg 1200w, /images/type_set-1400.jpg 1400w, /images/type_set-1600.jpg 1600w, /images/type_set-1800.jpg 1800w, /images/type_set-2000.jpg 2000w">
     <h2><a name="the-long-story" href="#the-long-story">The Long Story</a></h2>
     <p>
-      The truth is in the <a href="https://github.com/brianhempel/sneakynote.com">source code</a>, but here's an English language version.
+      The truth is in the <a href="https://github.com/deadmanssnitch/sneakynote.com">source code</a>, but here's an English language version.
     </p>
     <h3><a name="goals" href="#goals">Goals</a></h3>
     <p>
@@ -175,7 +175,7 @@
       In practice this means that secrets can only be accessed for 10 minutes, but their lifetime in the server's RAM could be up to 11 minutes.
     </p>
     <p>
-      Well, that's all the important parts. If you want more details, you'll have to <a href="https://github.com/brianhempel/sneakynote.com">read the source</a> or ask me.
+      Well, that's all the important parts. If you want more details, you'll have to <a href="https://github.com/deadmanssnitch/sneakynote.com">read the source</a> or ask me.
     </p>
   </div>
 </section>
@@ -267,7 +267,7 @@
       <p>The service will be taken offline while the attack is resolved. After that, service may or may not resume.</p>
       <h4><a name="reporting-security-issues" href="#reporting-security-issues">Reporting Security Issues</a></h4>
       <p>If you notice a vulnerability in SneakyNote.com, I use <a href="https://en.wikipedia.org/wiki/S/MIME">S/MIME</a>. We can send a few emails back and forth to get that handshake set up, then you can report the vulnerability. <a href="https://www.comodo.com/home/email-security/free-email-certificate.php">Comodo</a> and <a href="https://startssl.com/?app=12">StartCom</a> offer free S/MIME certificates.</p>
-      <p>If the issue is less serious, <a href="https://github.com/brianhempel/sneakynote.com/issues">open an issue</a> or prepare a pull request.</p>
+      <p>If the issue is less serious, <a href="https://github.com/deadmanssnitch/sneakynote.com/issues">open an issue</a> or prepare a pull request.</p>
     </div>
   </div>
 </section>
@@ -315,12 +315,12 @@
         </p>
       	<p>
       		Interested in a firewall install with<br>
-          custom branding? <a href="mailto:brian@sneakynote.com">Contact Me</a>
+          custom branding? <a href="mailto:hi@deadmanssnitch.com">Contact Me</a>
       	</p>
         <p>
-          <a href="https://twitter.com/brianhempel">Twitter</a> ·
-          <a href="https://github.com/brianhempel/sneakynote.com">GitHub</a> ·
-          <a href="mailto:brian@sneakynote.com">Email</a>
+          <a href="https://twitter.com/deadmanssnitch">Twitter</a> ·
+          <a href="https://github.com/deadmanssnitch/sneakynote.com">GitHub</a> ·
+          <a href="mailto:hi@deadmanssnitch.com">Email</a>
         </p>
       </div>
     </div>
